@@ -1,11 +1,11 @@
 # Spotify-clone
-    This website is clone of the Spotify. 
-    This is not Perfact fully working and contain all the modles of spotify. 
-    This web have limited songs and that songs you can play, pause and you can play previous and next songs.<br/>Thankyou for checking my project... 
+    This website is a clone of Spotify. 
+    This is not a fully working model and contains all the modules of Spotify. 
+    This web have limited songs and that songs you can play, pause and you can play previous and next songs.<br/> Thank you for checking my project... 
 
 ## Tech Stack
 
-**Client:** React.js,Tailwind CSS
+**Client:** React.js, Tailwind CSS
 
 
 ## Run Locally
